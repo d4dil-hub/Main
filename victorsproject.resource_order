@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Player","order":6,"path":"folders/Player.yy",},
+    {"name":"scripts","order":7,"path":"folders/scripts.yy",},
+    {"name":"Sprite RIght","order":1,"path":"folders/Player/Sprite RIght.yy",},
+    {"name":"group1","order":8,"path":"folders/group1.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_down","order":1,"path":"sprites/spr_down/spr_down.yy",},
+    {"name":"oWall","order":3,"path":"objects/oWall/oWall.yy",},
+    {"name":"spr_left","order":1,"path":"sprites/spr_left/spr_left.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sSolidWall","order":4,"path":"sprites/sSolidWall/sSolidWall.yy",},
+    {"name":"oSolidWall","order":5,"path":"objects/oSolidWall/oSolidWall.yy",},
+    {"name":"spr_right","order":1,"path":"sprites/spr_right/spr_right.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
+  ],
+}

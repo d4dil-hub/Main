@@ -1,0 +1,47 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Main",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 0,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Player.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite Down","folderPath":"folders/Player/Sprite Down.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite Left","folderPath":"folders/Player/Sprite Left.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprite RIght","folderPath":"folders/Player/Sprite RIght.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"scripts","folderPath":"folders/scripts.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.6.0.92",
+  },
+  "resources": [
+    {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+    {"id":{"name":"spr_up","path":"sprites/spr_up/spr_up.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"sSolidWall","path":"sprites/sSolidWall/sSolidWall.yy",},},
+    {"id":{"name":"obj_sprite","path":"objects/obj_sprite/obj_sprite.yy",},},
+    {"id":{"name":"oSolidWall","path":"objects/oSolidWall/oSolidWall.yy",},},
+    {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
+    {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
